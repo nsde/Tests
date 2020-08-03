@@ -1,0 +1,16 @@
+# Installation
+### Schritt 1
+Lade das neste Release der **.rar-Datei** für das Resourcepack herunter und entpacke es in: `%appdata%/.minecraft/resourcepacks/`, dass deine Ordnerstruktur in etwa so aussieht:
+`[...]/resourcepacks/StyxMineCMD/assets/[...]`
+
+### Schritt 2
+Öffne Minecraft und gehe zu `Options... > Resource packs...`  und stelle dann sicher, dass, wie man auf dem Bild erkennen kann, das StyxMineCMD-Texturepack ganz oben ist:
+
+***
+
+[![resourcepacks.png](https://i.postimg.cc/rwPh2Lq6/resourcepacks.png)](https://postimg.cc/sM5P5qBK)
+
+***
+
+Nun kannst du die Batch-Datei verwenden (denk daran, dass sie dieselbe Version wie die Rar-Datei haben muss!)
+_Denk auch daran, **F3+T** zu drücken, um deine Befehle wie z.B. !ruby auf Minecraft aktualisieren zu lassen._
