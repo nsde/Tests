@@ -1,0 +1,27 @@
+# Spiele-Befehle
+## !ruby
+Ersetzt die Smaragd-Textur (emerald.png) durch die Rubin-Textur (ruby-normal.png).
+
+## !noruby
+Ersetzt die Smaragd-Textur (emerald.png) durch die normale Textur (emerald-normal.png).
+
+# Verschiedene Befehle
+
+## !help
+Ich glaube nicht, dass ich euch sagen muss, was dieser Befehl bewirkt 🤣 .
+
+## !tutorial
+Öffnet diese GitHub-Seite.
+
+## !drive
+Voreinstellung: C.
+***
+Ändert den Laufwerksbuchstaben, auf dem Windows installiert ist. (Zur Erinnerung: der gesamte Code funktioniert nur unter Windows).
+
+## !pack
+Voreinstellung: StyxMineCMD
+***
+Wenn du den Namen Ihres Resourcepacks ändern willst und willst, dass der Code danach funktioniert, dann: bitteschön😄.
+
+## !dev
+Aktiviert das Entwickler-Feature. Okay, nun, es macht nur "@echo off", was bedeutet, dass es jeden einzelnen Befehl meldet. Aktuell gibt es keine Möglichkeit, das Dev-Feature zu deaktivieren...
