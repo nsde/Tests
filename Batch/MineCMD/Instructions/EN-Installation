@@ -1,0 +1,16 @@
+# Installation
+### Step 1
+Download the newest release of the **.rar file** for the resourcepack and unzip it in: `%appdata%/.minecraft/resourcepacks/`, so that your folder structure looks something like this:
+`[...]/resourcepacks/StyxMineCMD/assets/[...]`
+
+### Step 2
+Open Minecraft and go to `Options... > Resource packs...`  and now make sure, the StyxCMD pack is at the top, like you can see in the picture:
+
+***
+
+[![resourcepacks.png](https://i.postimg.cc/rwPh2Lq6/resourcepacks.png)](https://postimg.cc/sM5P5qBK)
+
+***
+
+Now, you can use the .bat file (with the same version as the rar file!). Have fun!
+_Remember to press **F3+T** to apply changes to the game._
