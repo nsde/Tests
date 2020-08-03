@@ -1,2 +1,2 @@
 **INFO**
-Please visit the wiki for instructions!
+Please visit the md-files for instructions!
