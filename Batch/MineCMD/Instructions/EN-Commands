@@ -1,0 +1,21 @@
+# Game commands
+## !ruby
+Replaces the emerald texture (emerald.png) with the ruby one (ruby-normal.png).
+## !noruby
+Replaces the emerald texture (emerald.png) with the normal one (emerald-normal.png).
+
+# Miscellanous commands
+## !help
+I don't think I have to tell you, what this command does 🤣 .
+## !tutorial
+Opens **this** github page.
+## !drive
+Default: C.
+***
+Change the letter of your drive you have windows installed on. (Remember: the whole code only works at windows).
+## !pack
+Default: StyxMineCMD
+***
+If you want to change the name of your resourcepack and want the code to work after that, there you go 😄 .
+## !dev
+Enables developer-feature. Okay, well, it only does "@echo off", which means it reports every single command. Yet, there is no way to disable it...
