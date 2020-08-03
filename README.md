@@ -1,7 +1,12 @@
-# testprojekte
+# Testprojekte
 Kleine, meist inaktive und schlechte Testprojekte.
 Eigentlich gibt es keinen richtigen Grund, hier vorbeizuschauen, aber
 wer trotzdem schlechten oder unvollständigen Code sehen möchte: bittschön.
+***
+_Little, mostly out-dated and bad test-projects.
+Actually, there's no reason to visit this garbage dump, but
+if you really want to see bad and incomplete code: you're welcome._
+***
 
 **Warnung: Sie werden oftmals nicht funktioneren oder schlechten/unsauberen Code haben!**
 
