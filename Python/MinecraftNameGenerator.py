@@ -1,7 +1,7 @@
 # code by styx: github.com/nsde/mcnames
 # feel free to use, but we appreciate credit.
 
-# The code generates 100 unused minecraft names (used minecraft api)
+# >> The code generates 100 unused minecraft names (used minecraft api) <<
 
 from random import randint as rdi
 import random
