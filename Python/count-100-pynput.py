@@ -1,3 +1,10 @@
+# pip install SpeechRecognition
+# pip install pipwin
+# pipwin install pyaudio
+
+
+# >> this will count to 100 and write the number line for line on your keyboard<<
+
 from pynput.keyboard import Key, Controller
 from time import sleep
 keyboard = Controller()
