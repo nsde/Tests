@@ -1,3 +1,4 @@
 This is my test file!
 My awesome new text: Abc123
 321
+init
