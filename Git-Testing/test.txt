@@ -1,5 +1,1 @@
-"newfile" and commit
-"supercool" and ctrl+enter
-commit via cmd pallete
-pull "mypull" via ...-menu
-init
+this is my new, updated text!
